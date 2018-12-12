@@ -1,0 +1,12 @@
+.container{
+    width:100%;
+    max-width: initial ;
+}
+
+.headerApp{
+    background:#e22424 !important;
+}
+
+h1{
+    color:rgb(177, 58, 58);
+}

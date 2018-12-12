@@ -6,9 +6,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ background:#ffffff;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+p{
+  color:white;
+}
+
+input[type="submit"]{
+  color:white;
+
+}
+.btn{
+  color:white;
+  background: #e22424 !important;
 }
